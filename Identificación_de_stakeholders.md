@@ -2,4 +2,5 @@ Se elaboró la matriz de stakeholders con el propósito de identificar y clasifi
 
 https://www.canva.com/design/DAG01RQBah4/d7SBF0lw1qCbEys7-zi81A/edit?utm_content=DAG01RQBah4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-<img width="1311" height="688" alt="Captura desde 2025-10-04 09-46-43" src="https://github.com/user-attachments/assets/50c2196b-6c04-41c6-89d7-2ad4688d2086" />
+<img width="1357" height="700" alt="image" src="https://github.com/user-attachments/assets/9e000409-5fdf-413a-9538-8eb1cbe0b853" />
+
