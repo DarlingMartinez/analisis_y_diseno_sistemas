@@ -8,6 +8,8 @@ Los usuarios evaluaron los módulos de Inventario, Ventas y Administración, pro
 
 <h1>Reporte Pruebas</h1>
 
+https://app.maze.co/report/Tienda-de-ropa-JR-Analisis-y-diseo/h0d7mhxt6936/intro
+
 <h2>Realizar una venta</h2>
 <img width="1899" height="864" alt="image" src="https://github.com/user-attachments/assets/ae898530-2848-493d-b2f0-3146c09804b7" />
 
